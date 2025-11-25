@@ -1,4 +1,4 @@
-# Alexis M. Adams
+# Alexis M. Adams  $\Omega_\Sigma$
 
 **AI System Architect | Founder & CEO @ AxiomHive | Deterministic AI Specialist**
 
