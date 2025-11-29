@@ -4,9 +4,9 @@
 
 [![Location](https://img.shields.io/badge/📍-South_Beach,_Miami-00d4ff?style=flat-square)](https://maps.google.com/?q=Miami+Beach)
 [![Website](https://img.shields.io/badge/🌐-axiomhive.org-blueViolet?style=flat-square)](https://axiomhive.org)
-[![Medium](https://img.shields.io/badge/📝-Medium-black?style=flat-square&logo=medium)](https://medium.com/@devdolizai)
-[![Twitter](https://img.shields.io/badge/𝕏-@devdolizai-1DA1F2?style=flat-square&logo=x)](https://twitter.com/devdolizai)
-[![Email](https://img.shields.io/badge/📧-devdolizai@gmail.com-red?style=flat-square&logo=gmail)](mailto:devdolizai@gmail.com)
+[![Medium](https://img.shields.io/badge/📝-Medium-black?style=flat-square&logo=medium)](https://medium.com/@devdollzai)
+[![Twitter](https://img.shields.io/badge/𝕏-@devdollzai-1DA1F2?style=flat-square&logo=x)](https://twitter.com/devdollzai)
+[![Email](https://img.shields.io/badge/📧-devdollzai@gmail.com-red?style=flat-square&logo=gmail)](mailto:devdollzai@gmail.com)
 
 ---
 
@@ -201,10 +201,10 @@ Public execution is mathematically synchronized with strategic plan. The determi
 
 ## 📫 Connect
 
-**Primary:** [devdolizai@gmail.com](mailto:devdolizai@gmail.com)  
+**Primary:** [devdollzai@gmail.com](mailto:devdollzai@gmail.com)  
 **Website:** [axiomhive.org](https://axiomhive.org)  
-**Medium:** [@devdolizai](https://medium.com/@devdolizai)  
-**Twitter/X:** [@devdolizai](https://twitter.com/devdolizai)  
+**Medium:** [@devdollzai](https://medium.com/@devdollzai)  
+**Twitter/X:** [@devdollzai](https://twitter.com/devdollzai)  
 **Location:** 🌴 South Beach, Miami, FL
 
 ---
